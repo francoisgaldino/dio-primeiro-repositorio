@@ -1,2 +1,6 @@
 # criando meu primeiro github
-desafio de projeto/github
+repositório para desafio
+
+## Link úteis
+
+[Sintaxe básicas Markdown](https://www.markdownguide.org/basic-syntax/)
